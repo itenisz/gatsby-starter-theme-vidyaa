@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.2] - 2020-03-06
+
+### Note
+
+- use the shadowed cfg-languages file as theme options
+
 ## [0.1.1] - 2020-02-22
 
 ### Note

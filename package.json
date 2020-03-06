@@ -2,7 +2,7 @@
   "private": true,
   "name": "@itenisz/gatsby-starter-theme-vidyaa",
   "description": "Gatsby starter for Gatsby Theme Vidyaa - i18n theme using MDX and Theme-ui by @itenisz",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "@itenisz",
   "license": "MIT",
   "starter-name": "gatsby-starter-theme-vidyaa",

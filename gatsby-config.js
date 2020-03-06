@@ -16,7 +16,7 @@ const {
 } = defaultLanguageObject
 
 // manifest plugin is optional
-//get `en` description for manifest locale
+//get `hu` description for manifest locale
 const siteDescriptionHU = configLanguages.filter(item => item.key === `hu`)[0].siteDescription
 
 module.exports = {
@@ -64,6 +64,7 @@ module.exports = {
       resolve: `@itenisz/gatsby-theme-vidyaa`,
       options: {
         cfgImages,
+        cfgLanguages,
       },
     },
     {
